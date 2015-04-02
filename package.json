@@ -1,0 +1,32 @@
+{
+  "name": "Bower and Gulp",
+  "description": "Managing front end dependencies with Bower and Gulp",
+  "version": "1.0.0",
+  "contributors": [
+    {
+      "name": "Jose Eduardo Gonzalez Chavira",
+      "email": "eduardo.gch@gmail.com",
+      "url": "http://eduardogchmx.blogspot.com/"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardogch"
+  },
+  "devDependencies": {
+    "bower": "*",
+    "gulp": "*",
+    "gulp-less": "*",
+    "gulp-sass": "*",
+    "gulp-minify-css": "*",
+    "gulp-concat": "*",
+    "gulp-uglify": "*",
+    "gulp-rename": "*",
+    "gulp-phpunit": "*",
+    "gulp-notify": "*",
+    "socket.io": "*",
+    "express" : "*",
+    "redis" : "*"
+  },
+  "main": "gulpfile.js"
+}

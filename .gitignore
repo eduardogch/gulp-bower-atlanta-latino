@@ -1,0 +1,33 @@
+### Laravel ###
+/bootstrap/compiled.php
+/app/config/local
+/app/config/staging
+/app/config/production
+.env.*.php
+.env.php
+
+### Composer ###
+composer.phar
+composer.lock
+vendor/
+
+### Node JS ###
+node_modules/
+
+### Bower ###
+public/vendor
+
+### Vagrant ###
+.vagrant/
+
+### PhpStorm ###
+*.iml
+.idea/
+_ide_helpers.php
+
+### OS ###
+.DS_Store
+*~
+Thumbs.db
+ehthumbs.db
+Desktop.ini

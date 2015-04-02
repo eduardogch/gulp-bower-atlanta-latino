@@ -1,0 +1,19 @@
+{
+  "name": "Bower and Gulp",
+  "description": "Managing front end dependencies with Bower and Gulp",
+  "version": "1.0.0",
+  "author": "Jose Eduardo Gonzalez Chavira",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+	"fontawesome": "~4.3.0",
+	"angular-latest" "*",
+	"jquery": "~2.1.1",
+	"jquery.ui": "~1.11.2",
+	"modernizr": "~2.8.3",
+  }
+}
